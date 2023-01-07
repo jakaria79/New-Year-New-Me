@@ -1,0 +1,101 @@
+/*header*/
+.header{
+    text-align: right;
+    weight:700;
+    color: white;
+    margin: 0;
+    background-image: url(../images/banner/banner3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50px;
+    padding: 130px 130px 240px 245px;
+    margin: 30px 220px 30px 100px;
+}
+.primary-btn{
+    color: rgb(0, 110, 255);
+    background-color:whitesmoke;
+    border: 0;
+    border-radius: 5px;
+    padding: 18px 35px;
+    font-size: 20px;
+    font-weight: 700;
+    height: 64px;
+
+
+}
+/*section*/
+.section{
+    display: flex;
+    justify-content:space-between;
+    padding-left: 150px;
+    
+}
+
+.section img{
+    height: 250px;
+}
+/*container*/
+.container-heading{
+    text-align: center;
+}
+.container{
+    display: flex;
+       
+}
+.container-1{
+    border-style: none;
+    padding-left: 130px;
+}
+.container-2{
+    border-style: none;
+    padding-left: 150px; 
+      
+}
+  
+.container-3{
+    border-style: none;
+    padding-left: 170px;
+    
+}
+  
+.container-4{
+    border-style: none;
+    padding-left: 180px
+}
+/*banner*/
+.banner{
+    font-size: 20px;
+    color: black;
+    background-image: url(../images/watch.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    padding: 20px 130px 75px 90px;
+    margin: 30px 220px 30px 100px;
+}
+ /*footer*/
+ .footer{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    background-color: black;
+    padding: 20px 130px 75px 90px;
+    margin: 30px 220px 30px 100px;
+ } 
+ .footer-text-2{
+    text-align: left;
+ }
+ .secondary-btn{
+    color: white;
+    background-color:rgb(0, 119, 255);
+    border: 0;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px 20px 30px 20px;
+    font-size: 20px;
+    font-weight: 400;
+    height: 40px;
+ }
+   
+   
